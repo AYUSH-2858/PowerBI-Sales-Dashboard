@@ -26,5 +26,7 @@ Super Store Sales Dataset
 ## Dashboard Preview
 
 <img width="1377" height="763" alt="Screenshot 2026-06-25 203203" src="https://github.com/user-attachments/assets/26b423e1-2057-4f33-a2e6-3a58b8b083ee" />
+<img width="1365" height="756" alt="Screenshot 2026-06-25 203226" src="https://github.com/user-attachments/assets/b0b9bbb8-fb76-4345-8f77-0b3891210b91" />
+
 
 
